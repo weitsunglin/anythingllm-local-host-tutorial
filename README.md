@@ -5,3 +5,6 @@
 
 ##　建置流程
 
+### docker載llm
+
+![doceker載llm](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/1723455553813.jpg）
