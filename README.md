@@ -7,4 +7,4 @@
 
 ### docker載llm
 
-![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/1723455553813.jpg）
+![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/1723455553813.jpg)
