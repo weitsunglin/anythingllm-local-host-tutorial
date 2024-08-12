@@ -3,7 +3,7 @@
 
 運行環境: mac
 
-##建置流程
+## 建置流程
 
 ### docker載anything llm 映像檔
 
