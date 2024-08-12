@@ -29,3 +29,7 @@
 ### weu ui 上傳公司內部知識
 
 ![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/1723455592766.jpg)
+
+## 注意事項
+
+windows 裝 docekr 去跑這套流程，在餵資料時，目前會遇到 documents failed to add 問題，先選擇在mac上製作
