@@ -17,19 +17,19 @@
 
 ![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/1723455566086.jpg)
 
-### 啟動weu ui
+### 啟動web ui
 
 ![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/1723455437575.jpg)
 
 
-### weu ui 系統設定及餵資料
+### web ui 系統設定及餵資料
 
 ![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/1723455878552.jpg)
 
-### weu ui 上傳公司內部知識
+### web ui 上傳公司內部知識
 
 ![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/1723455592766.jpg)
 
 ## 注意事項
 
-windows 裝 docekr 去跑這套流程，在餵資料時，目前會遇到 documents failed to add 問題，先選擇在mac上製作
+windows 裝 docker 去跑這套流程，在餵資料時，目前會遇到 documents failed to add 問題，先選擇在mac上製作
