@@ -17,7 +17,7 @@
 
 ![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/1723455566086.jpg)
 
-### 啟動web ui
+### 啟動web ui 並串接 ai 
 
 ![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/1723455437575.jpg)
 
