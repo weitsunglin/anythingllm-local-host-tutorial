@@ -23,7 +23,7 @@
 
 ![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/upload_6ed1f090c0308e948843d71ea0386c58.png)
 
-### web ui 串接 ai
+### web ui 串接 ai (選擇gemini)
 
 ![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/upload_a815aaa2ddce96fa8d51eaa7c7c22874.png)
 
