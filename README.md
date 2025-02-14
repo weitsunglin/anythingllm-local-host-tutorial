@@ -28,7 +28,7 @@
 ![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/upload_a815aaa2ddce96fa8d51eaa7c7c22874.png)
 
 
-### web ui 系統設定及餵資料
+### web ui 系統設定及餵資料_txt效果好
 
 ![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/1723455878552.jpg)
 
