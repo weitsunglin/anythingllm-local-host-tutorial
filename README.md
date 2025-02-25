@@ -11,6 +11,8 @@
 
 ### 將映像檔啟動
 
+docker run -d -p 3001:3001 mintplexlabs/anythingllm
+
 ![im1](https://github.com/weitsunglin/anythingllm-local-host-tutorial/blob/main/1723455453198.jpg)
 
 ### 生成google ai api key
