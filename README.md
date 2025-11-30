@@ -42,4 +42,4 @@ docker run -d -p 3001:3001 mintplexlabs/anythingllm
 
 windows 裝 docker 去跑這套流程，在餵資料時，目前會遇到 documents failed to add 問題，先選擇在mac上製作
 
-感謝  @Huang0504  指出 AnythingLLM embedding model 設定 gemini 即可使用 windows docker 版本的 anythingllm
+感謝   指出 AnythingLLM embedding model 設定 gemini 即可使用 windows docker 版本的 anythingllm
